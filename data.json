@@ -1,0 +1,46 @@
+{
+    "projects" : 
+    [
+        {
+            "id" : 0,
+            "project_name" : "Random Generator",
+            "description" : "A web page with a random quote generator created to demenstrate knowledge on javascript fundumentals and use of functions",
+            "technologies" : ["HTML","CSS","JavaScript"],
+            "live_link" : "https://atebitdev.github.io/Project_1/",
+            "git_link" : "https://github.com/ateBitDev/Project_1",
+            "image_urls" : ["../static/images/Project_1.1.png", "../static/images/Project_1.2.png"]
+        },
+        {    "id" : 1,
+            "project_name" : "List Pagination and Filtering",
+            "description" : "This project was design to show off skills with the DOM and understanding of unostructive javscript using list pagination with a-tags and and filtering by referencing elements in the html using The DOM object  ",
+            "technologies" : ["HTML","CSS","JavaScript"],
+            "live_link" : "https://atebitdev.github.io/Project_2/",
+            "git_link" : "https://github.com/ateBitDev/Project_2",
+            "image_urls" : ["../static/images/Project_2.1.png","../static/images/Project_2.2.png"]
+        },
+        {    "id" : 2,
+            "project_name" : "Interactive Form",
+            "description" : "The form element was used for practice with javascripts jquery libaray and its various ways to intereact with html eleements",
+            "technologies" : ["HTML","CSS","JavaScript"],
+            "live_link" : "https://atebitdev.github.io/Project_3/",
+            "git_link" : "https://github.com/ateBitDev/Project_3",
+            "image_urls" : ["../static/images/Project_3.1.png","../static/images/Project_3.2.png"]
+        },
+        {    "id" : 3,
+            "project_name" : "OOP Game",
+            "description" : "Consitered one of the more complex concepts for new javascript developers is using Object oriented programming, and here I created a famous phrase guessing game to represent my grip on the concept",
+            "technologies" : ["HTML","CSS","JavaScript"],
+            "live_link" : "https://atebitdev.github.io/Project_4/",
+            "git_link" : "https://github.com/ateBitDev/Project_4",
+            "image_urls" : ["../static/images/Project_4.1.png","../static/images/Project_4.2.png","../static/images/Project_4.3.png"]
+        },
+        {    "id" : 4,
+            "project_name" : "Public API Requests",
+            "description" : "Now pushing into the server side of javascript, I used ajax to \"get\" infomation from an API request site that is used for making random-user-generater requests",
+            "technologies" : ["HTML","CSS","JavaScript"],
+            "live_link" : "https://atebitdev.github.io/Project_5/",
+            "git_link" : "https://github.com/ateBitDev/Project_5",
+            "image_urls" : ["../static/images/Project_5.1.png","../static/images/Project_5.2.png"]
+        }
+    ]
+}

@@ -1,1 +1,2 @@
-# Project_7
+# Project_6
+Static Node.js and Express Site
